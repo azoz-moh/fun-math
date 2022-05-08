@@ -1,1 +1,0 @@
-"Isha_Iqama": df.loc[row]['Isha Iqama'],
